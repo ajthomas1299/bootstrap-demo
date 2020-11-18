@@ -1,0 +1,36 @@
+/* Extra, in addition to Bootstrap CSS Style sheet */
+
+.form-control {
+
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.btn {
+
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+.checkbox {
+    margin-left: 7px;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    
+}
+
+hr {
+    width: 80%;
+}
+
+footer {
+    /* background-color: lightblue; */
+    /* background-color: lightgray; */
+    /* background-color: rgb(30, 83, 136); */
+}
+
+/*----------------------------------------------------------------------------------------------END*/
